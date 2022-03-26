@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sagar-CK
+- 👀 I’m interested in Android/IOS development and Machine Learning.
+- 🌱 I’m currently learning C++/C# within Computer Vision and Machine Learning.
+- 💞️ I’m looking to collaborate on mobile application development!
+- 📫 How to reach me https://www.linkedin.com/in/sagar-chethan-kumar/
