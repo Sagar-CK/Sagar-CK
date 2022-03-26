@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sagar-CK
+- 👋 Hi, I’m Sagar
 - 👀 I’m interested in Android/IOS development and Machine Learning.
 - 🌱 I’m currently learning C++/C# within Computer Vision and Machine Learning.
 - 💞️ I’m looking to collaborate on mobile application development!
