@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer and Computer Vison Enthusiast
 --------------------------------------------------
 
-I have been an avid coder for a long time (8 years to be exact) and have always loved the art of solving in programming. Ranging from developing basic android apps to seasoned computer vision based projects, I have always cherished the free reign of programming.
+I have been an avid coder for a long time (8 years to be exact) and have always loved the art of solving in programming (much like puzzles!). I have experience in app development, computer vision, machine learning, and UX development - if this interests you feel free to reach out!
 
 * 🌍  I'm based in Netherlands and Germany
 * ✉️  You can contact me at [Sagar.chethankumar@gmail.com](mailto:Sagar.chethankumar@gmail.com)
