@@ -6,7 +6,7 @@ Mobile App Developer and Computer Vison Enthusiast
 
 I have been an avid coder for a long time (8 years to be exact) and have always loved the art of solving in programming (much like puzzles!). I have experience in app development, computer vision, machine learning, and UX development - if this interests you feel free to reach out!
 
-* 🌍  I'm based in Netherlands and Germany
+* 🌍  I'm based in the Netherlands and Germany
 * ✉️  You can contact me at [Sagar.chethankumar@gmail.com](mailto:Sagar.chethankumar@gmail.com)
 * 🧠  I'm learning Koltin for multiplatform app development.
 * 🤝  I'm open to collaborating on app dev projects related to health, finance, tech, and productivity.
