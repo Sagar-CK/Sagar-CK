@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mobile App Developer and Computer Vison Enthusiast
 --------------------------------------------------
 
-I have been an avid coder for a long time (8 years to be exact) and have always loved the art of solving in programming. Ranging from developing basic android apps to seasoned computer vision based projects, I continue to cherish the free reign of programming with the vision of solving demographical problems.
+I have been an avid coder for a long time and have always loved the art of solving in programming. Ranging from developing basic android apps to seasoned computer vision based projects, I continue to cherish the free reign of programming with the vision of solving demographical problems.
 
 * 🌍  I'm based in Netherlands and Germany
 * 🖥️  See my portfolio at [Sagar's Space](http://sagar-ck.github.io/Sagar-s-Space/)
