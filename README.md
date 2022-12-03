@@ -3,7 +3,7 @@ Mobile App Developer and Computer Vison Enthusiast
 Ranging from developing basic android apps to convoluted computer vision based projects, you will often find me solving something :p.
 
 * 🌍  I'm based in Netherlands and Germany
-* 🖥️  See my portfolio at [Sagar's Space](http://sagarspace.com)
+* 🖥️  http://sagarspace.com
 * ✉️  You can contact me at [Sagar.chethankumar@gmail.com](mailto:Sagar.chethankumar@gmail.com)
 * 🧠  I'm learning React Native for multiplatform app development.
 * 🤝  I'm open to collaborating on app dev projects related to health, finance, tech, and productivity.
