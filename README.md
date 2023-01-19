@@ -1,6 +1,6 @@
 Mobile App Developer and Computer Vison Enthusiast
 --------------------------------------------------
-Ranging from developing basic android apps to "convoluted" computer vision projects, you will often find me doing something :p.
+Ranging from developing basic android apps to basic computer vision projects, you will often find me doing something :p.
 
 * 🌍  I'm based in Netherlands and Germany
 * 🖥️  http://sagarspace.com
