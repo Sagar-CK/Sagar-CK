@@ -1,4 +1,4 @@
-Mobile App Developer and Computer Vison Enthusiast
+Mobile App Dev and CV Enthusiast
 --------------------------------------------------
 Ranging from android apps to computer vision projects, you will often find me doing something :p.
 
