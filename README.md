@@ -5,8 +5,6 @@ Ranging from android apps to computer vision projects, you will often find me do
 * 🌍  I'm based in Netherlands and Germany
 * 🖥️  http://sagarspace.com
 * ✉️  You can contact me at [Sagar.chethankumar@gmail.com](mailto:Sagar.chethankumar@gmail.com)
-* 🧠  I'm learning React Native for multiplatform app development.
-* 🤝  I'm open to collaborating on app dev projects related to health, finance, tech, and productivity.
 
 ### Skills
 
