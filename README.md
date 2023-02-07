@@ -1,4 +1,4 @@
-Mobile App Dev and CV Enthusiast
+App Dev - CV Enthusiast - UI/UX
 --------------------------------------------------
 Ranging from android apps to computer vision projects, you will often find me doing something :p.
 
