@@ -1,6 +1,4 @@
-App Dev - CV Enthusiast - UI/UX
---------------------------------------------------
-Ranging from android apps to computer vision projects, you will often find me doing something :p.
+Ranging from app dev to computer vision, you will often find me doing something :p.
 
 * 🌍  I'm based in Netherlands and Germany
 * 🖥️  http://sagarspace.com
