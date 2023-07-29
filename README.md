@@ -1,4 +1,4 @@
-Ranging from app dev to computer vision, you will often find me doing something :p.
+Ranging from app dev to ML/NLP/CV, you will often find me doing something :p.
 
 * 🌍  I'm based in Netherlands and Germany
 * 🖥️  http://sagarspace.com
