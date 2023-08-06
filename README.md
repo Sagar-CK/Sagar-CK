@@ -1,6 +1,6 @@
 Ranging from app dev to ML/NLP/CV, you will often find me doing something :p.
 
-* 🌍  I'm based in Netherlands and Germany
+* 🌍  I'm based in Netherlands and Germany, but am a US citizen.
 * 🖥️  http://sagarspace.com
 * ✉️  You can contact me at [Sagar.chethankumar@gmail.com](mailto:Sagar.chethankumar@gmail.com)
 
