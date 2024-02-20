@@ -1,6 +1,4 @@
-Ranging from app dev to ML/NLP/CV, you will often find me doing something :p.
-
-* 🌍  https://sagarspace.com
+https://sagarspace.com
 
 
 ### Socials
